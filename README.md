@@ -1,5 +1,8 @@
 # Pyside6-DigitalClock-Sample
 
+Ahh, fix the design yourself... :3
+デザインは自分で修正してくれ... :3
+
 #### There is two samples of Digital Clock
 EN :7-segment display digital clock usring QLCDNumber <- official reference recommended
 JP :7セグメントディスプレイ表示デジタル時計 <- 公式リファレンス推奨
